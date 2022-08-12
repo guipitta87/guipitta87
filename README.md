@@ -1,4 +1,3 @@
-<img align="right" width="400" height="735" right="0px" src="https://i.imgur.com/t1NicXz.png">
 <h2 align = "left"> Olá, eu sou o Guilherme Pitta 👋 </h2> 
 
 ### Desenvolvedor Java e Arquiteto Java
