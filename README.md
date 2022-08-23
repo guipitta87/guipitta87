@@ -19,7 +19,7 @@
 
 <p align="left" margin-left="10px">
   
-- 🧩 Minha Stack: <strong> Full Stack Java, BackEnd, GitFlow, API Rest, SQL, POO, HTML e CSS.</strong> <br>
+- 🧩 Minha Stack: <strong> Full Stack Java, BackEnd, GitFlow, API Rest, SQL, POO, AngularJs, Angular8,  HTML e CSS.</strong> <br>
 - ⚙ Conhecimento em Tecnologias como: <strong> Maven, JUnit, Bootstrap, JWT, entre outras.</strong> <br>
 - 🛢 Conhecimento em Banco de Dados: <strong>MySQL</strong> e <strong>SQL Server</strong>.<br>
 - 🛠 Conhecimento em Framework: <strong> Spring Framework, Spring Boot, Spring Data, Spring MVC, Spring Security, JavaFX, JSP, JSF, Hibernate, Selenium.</strong> <br>
